@@ -1,0 +1,30 @@
+body{
+text-align: center;
+background-image:linear-gradient(yellow,skyblue);
+
+
+}
+
+#index.jpg{
+    width: 290px;
+}
+
+button{
+    font-size: 25px;
+    color:black;
+     background-color:bisque;
+     border-radius: 20%;
+}
+h1{
+
+    text-decoration: underline;
+color: blue;
+font-size: 40px;
+
+}
+h3{
+    font-size: 30px;
+color: purple;
+font-weight: bold;
+text-decoration: underline;
+}
